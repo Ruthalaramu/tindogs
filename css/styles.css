@@ -1,0 +1,68 @@
+.header{
+  background-color:lightpink;
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(black,black) url();
+}
+.navbar{
+  padding-bottom: 4.5rem;
+}
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+color: #fff;
+}
+.navbar-nav{
+  margin-left: 20%;
+}
+i{
+  margin-right: 10%;
+}
+.tin-dogs{
+  margin-left: 10%;
+  margin-top: 2%;
+  font-size: 500%;
+  color: grey;
+}
+h3{
+  margin-left: 200px;
+  color:darkviolet;
+  font-size: 200%;
+}
+.blog-button{
+  margin-left: 20%;
+  margin-top: 5%;
+
+}
+.blog-button:hover{
+  color: red;
+
+}
+.all-image{
+  margin-left: 5%;
+  margin-bottom: 5%;
+  margin-left: 2%;
+}
+.reader{
+  background-color: azure;
+  margin-top: 5%;
+  font-family: 'Kalam', cursive;
+}
+h5{
+  font-family: Kalam;
+  color: chocolate;
+  margin-bottom:  1%;
+}
+.first-line{
+  color:grey;
+  font-style: italic;
+}
